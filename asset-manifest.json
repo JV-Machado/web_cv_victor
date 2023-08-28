@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/web_cv_victor/static/css/main.de6e58ae.css",
-    "main.js": "/web_cv_victor/static/js/main.7e9dcce9.js",
+    "main.js": "/web_cv_victor/static/js/main.7d27883e.js",
     "static/media/big_mart_img.png": "/web_cv_victor/static/media/big_mart_img.ec635c8007727a84b5be.png",
     "static/media/crud_img.png": "/web_cv_victor/static/media/crud_img.3cafb25b131732fc6ab7.png",
     "static/media/image4.png": "/web_cv_victor/static/media/image4.dced8347210daf7485b6.png",
@@ -10,10 +10,10 @@
     "static/media/chess_img.jpg": "/web_cv_victor/static/media/chess_img.349eafbfcf805c044a95.jpg",
     "index.html": "/web_cv_victor/index.html",
     "main.de6e58ae.css.map": "/web_cv_victor/static/css/main.de6e58ae.css.map",
-    "main.7e9dcce9.js.map": "/web_cv_victor/static/js/main.7e9dcce9.js.map"
+    "main.7d27883e.js.map": "/web_cv_victor/static/js/main.7d27883e.js.map"
   },
   "entrypoints": [
     "static/css/main.de6e58ae.css",
-    "static/js/main.7e9dcce9.js"
+    "static/js/main.7d27883e.js"
   ]
 }
